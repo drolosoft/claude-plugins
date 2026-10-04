@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "drolosoft-marketplace",
+  "description": "Plugins and mods by Drolosoft for Claude Code",
+  "owner": { "name": "Drolosoft", "email": "forge@drolosoft.com" },
+  "plugins": [
+    {
+      "name": "taskrail",
+      "description": "A live wave board of your session's plan above the prompt: waves, tasks and their state, kept current by Claude through three tools and switched with /taskrail.",
+      "author": { "name": "Drolosoft", "email": "forge@drolosoft.com" },
+      "source": { "source": "github", "repo": "drolosoft/taskrail" },
+      "homepage": "https://drolosoft.com/taskrail.html",
+      "keywords": ["mod", "task-board", "plan", "progress"]
+    },
+    {
+      "name": "immich-photo-manager",
+      "description": "MCP server for intelligent photo management with Immich: galleries, geographic albums, cleanup, duplicates, people, tags, uploads, shared links and PDF reports, 94 tools.",
+      "author": { "name": "Drolosoft", "email": "forge@drolosoft.com" },
+      "source": { "source": "github", "repo": "drolosoft/immich-photo-manager" },
+      "homepage": "https://drolosoft.com/immich-photo-manager.html",
+      "keywords": ["immich", "photos", "mcp"]
+    }
+  ]
+}
