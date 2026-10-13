@@ -13,6 +13,13 @@
       "keywords": ["mod", "task-board", "plan", "progress"]
     },
     {
+      "name": "rolrail",
+      "description": "Session roles as first-class files (ROLE.md, global or per project): listed with /roles, put on by a phrase or /rol, shown above the prompt, with their rules, a write lock when the role asks for it, the project's prompt folders and a sound of their own.",
+      "author": { "name": "Drolosoft", "email": "forge@drolosoft.com" },
+      "source": { "source": "github", "repo": "drolosoft/rolrail" },
+      "keywords": ["mod", "roles", "terminal-ui"]
+    },
+    {
       "name": "immich-photo-manager",
       "description": "MCP server for intelligent photo management with Immich: galleries, geographic albums, cleanup, duplicates, people, tags, uploads, shared links and PDF reports, 94 tools.",
       "author": { "name": "Drolosoft", "email": "forge@drolosoft.com" },
