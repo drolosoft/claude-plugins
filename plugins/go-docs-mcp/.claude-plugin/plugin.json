@@ -1,0 +1,12 @@
+{
+  "name": "go-docs-mcp",
+  "displayName": "Go-Docs MCP",
+  "version": "1.4.0",
+  "description": "MCP server for local documents: PDF with OCR, Office files, EPUB, HTML, text and images, served read-only from one folder as 13 tools and docs:// resources.",
+  "author": { "name": "Drolosoft", "email": "forge@drolosoft.com", "url": "https://drolosoft.com" },
+  "license": "MIT",
+  "repository": "https://github.com/drolosoft/go-docs-mcp",
+  "homepage": "https://github.com/drolosoft/go-docs-mcp",
+  "keywords": ["claude-code", "plugin", "mcp", "documents", "pdf", "ocr"],
+  "mcpServers": "./.mcp.json"
+}

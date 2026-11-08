@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "go-docs-mcp": {
+      "command": "go-docs-mcp",
+      "env": {
+        "DOCS_MCP_DIR": "${HOME}/.docs-mcp/documents"
+      }
+    }
+  }
+}
